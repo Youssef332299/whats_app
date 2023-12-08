@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764211887191",
+    "project_id": "whatsaapp-f87b3",
+    "storage_bucket": "whatsaapp-f87b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764211887191:android:d1f11a67343bd2c89fb712",
+        "android_client_info": {
+          "package_name": "com.youssef.whats_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-nPM10vswdmxRq7IWCchB9TkUCEyenc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
