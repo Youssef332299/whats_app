@@ -6,7 +6,7 @@ The app is built using Flutter with the BLoC state management pattern, ensuring 
 Key Features
 
 • Real-Time Messaging – Send and receive instant text messages with a smooth chat experience.
-• Voice & Media Sharing – Share images, videos, and voice messages with friends and groups.
+• Voice & Media Sharing – Share images, messages with friends.
 • Voice & Video Calls – Make high-quality internet calls anytime and anywhere.
 • Group Chats – Create group conversations and stay connected with multiple users simultaneously.
 • Secure Communication – Messages and calls are protected using end-to-end encryption so only participants can access the content.
